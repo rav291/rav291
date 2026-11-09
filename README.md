@@ -1,23 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Strengthening my foundation as a full-stack engineer by combining frontend ownership with backend fundamentals — solving DSA consistently, deepening JavaScript internals, and building an understanding of how APIs, databases, caching, and system design work together in production systems.<br><br>👯 I’m looking to collaborate on<br>Projects where frontend and backend meet — dashboards, internal tools, or consumer products that require thoughtful API design, performance considerations, and clean data flow, not just UI polish.<br><br>🤝 I’m looking for help with<br>Backend design thinking (data modeling, trade-offs, scalability), writing production-grade APIs, and transitioning from a frontend-heavy role into a more balanced full-stack or systems-aware engineer.<br><br>🌱 I’m currently learning<br>Advanced data structures & algorithms, backend heavy stuff(Node.js APIs, databases, indexing, caching), system design concepts, and real-world engineering practices through blogs, case studies, and hands-on experimentation.<br><br>💬 Ask me about<br>React and Next.js performance, JavaScript internals, API integration patterns, debugging complex UI issues, or how frontend and backend decisions impact each other at scale.<br><br>⚡ Fun fact<br>I learn systems best by breaking them down into mental models and stories — I’m usually reading engineering blogs or listening to ambient/cinematic music while thinking through architecture problems.
+### Hi, I'm Ravi
 
+Frontend engineer in Bangalore. 4+ years shipping production systems for real users - onboarding, payments, KYC, auth and performance - including a stock-research platform used by 300K+ investors. Now I'm going deep on the backend and writing up what I find.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravianand04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RaviAnand14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravianand291@gmail.com) 
+#### Where I've worked
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Propsoch** · Frontend Engineer · Mar 2026 - now<br>
+Customer-facing product UI at a proptech startup, end to end.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rav291&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Trade Brains · Bloomwaves** · SDE-1, Frontend · Nov 2024 - Mar 2026
+- Built the onboarding and payment system for 300,000+ investors, handling 2,500+ customer verifications a month. Premium subscriptions and revenue went up 30%.
+- Led the redesign of mobile-first authentication. Login failures dropped 35% and new registrations rose 20%.
+- Cut page-load time and bundle size by over 20% with targeted memoization. Sessions got 15% longer and bounce rate fell 10%.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Vibencode** · Frontend Developer · May 2024 - Oct 2024
+- Cut template loading delays by 40% with Next.js, TypeScript and Recoil, and related support tickets by 20%.
+- Added graph visualisations with Graphin. Feature usage went up 25%.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rav291&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Infosys** · Systems Engineer · Jan 2022 - Dec 2023
+- Worked on LEX, the multi-tenant learning platform behind enterprise clients like Ford and Siemens. Shipped feature releases tailored per client, with deployments 22% faster.
+- Led the design and build of registration and daily-workflow modules used by thousands of learners.
 
----
-[![](https://visitcount.itsvg.in/api?id=rav291&icon=0&color=0)](https://visitcount.itsvg.in)
+#### What I'm building in public
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Snippetly** turns one of my blog posts into a LinkedIn post and an X thread that sound like me. It drafts from my own writing samples, scans every draft for 110 AI-sounding phrases and rewrites once if it finds any, and flags every number that isn't in the original post. There's a plain Node.js CLI, and a Next.js, Express and Postgres web app that streams drafts as they're written. It's in v0 - the repos open up once it's deployed.
+
+Alongside it I'm working through a 200-topic backend roadmap from first principles. Right now that's the Node runtime: the event loop, libuv, streams and I/O. I write the deep dives on [I Wonder Why](https://i-wonder-why.hashnode.dev), like why Windows measures time in 15.6 ms ticks.
+
+#### Stack
+
+- **Frontend:** TypeScript, React, Next.js, Redux, Recoil, Tailwind CSS, Ant Design
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB, Prisma, Docker
+- **Craft:** performance, accessibility (WCAG), testing with Jest and React Testing Library
+
+**Ask me about** React and Next.js performance, auth and payment flows, or how a frontend decision ends up costing the backend.
+
+[LinkedIn](https://www.linkedin.com/in/ravianand04) · [X](https://x.com/RaviAnand14) · [Blog](https://i-wonder-why.hashnode.dev) · [ravianand291@gmail.com](mailto:ravianand291@gmail.com)
